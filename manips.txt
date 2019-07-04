@@ -1,0 +1,3 @@
+This are just some random texts 
+
+Git programming is turning out to be quite fun!
